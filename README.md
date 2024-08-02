@@ -15,6 +15,3 @@ This application generates a simple SVG logo based on user input. It allows you 
 
 Run tests using Jest: `npm test`
 
-## Video Walkthrough
-
-[Watch the video walkthrough](URL_TO_YOUR_VIDEO)
